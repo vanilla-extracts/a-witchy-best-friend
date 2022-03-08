@@ -44,7 +44,7 @@ class TeXParser:
         a = self.parsed_chapters[i]
         line = "<title>"+self.name+": HTML Version</title>\n<body>\n"
         line += "<style>\n .center { \n margin:auto; \n text-align: center; \n } \n </style>"
-        line += "<h1 id=\"title\" class=\"center\">" + "TeX : HTML Version" + "</h1>\n\n"
+        line += "<h1 id=\"title\" class=\"center\">" + self.name + ": HTML Version" + "</h1>\n\n"
         line += "<h2>" + a["name"] + "</h2>\n\n"
         total_text = line + a["text"] + "</body>"
         file = open(self.outname, "w")
@@ -57,7 +57,7 @@ class TeXParser:
             self.parsed_chapters = [self.parse_chapter(a) for a in self.chappies]
         line = "<title>"+self.name+": HTML Version</title>\n<body>\n"
         line += "<style>\n .center { \n margin:auto; \n text-align: center; \n } \n </style>"
-        line += "<h1 id=\"title\" class=\"center\">" + "A Galactic HRT : HTML Version" + "</h1>\n\n"
+        line += "<h1 id=\"title\" class=\"center\">" + self.name + ": HTML Version" + "</h1>\n\n"
         i = 0
         line += "<div id=\"tableofcontent\" class=\"center\"><br/>\n"
         line += "\t<h2>Table of content</h2><br/>\n"
@@ -76,7 +76,7 @@ class TeXParser:
         file = open(self.outname, "w")
         file.write(line)
         file.close()
-        print("html has been printed in the file",self.outname)
+        print(name,"html has been printed in the file",self.outname)
 
     def parse_gls(self,text,startingpoint):
         if not self.use_glossary:

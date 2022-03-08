@@ -6,6 +6,7 @@ web:
 clean:
 	rm *.a *.dvi *.out *.swp *.fdb_latexmk *.fls *.ist *.toc *.synctex.gz *.aux *.glg *.glo *.gls *.log 2> /dev/null
 prod:
+	make web
 	make build 
 	cp awb.pdf ../website/pdfs/awb.pdf
 	cp awb.tex ../website/pdfs/awb.tex
