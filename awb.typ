@@ -16,7 +16,12 @@ This book is published under the MIT Licence and available on the web here #link
 }
 
 = A Witchy Best Friend <a-witchy-best-friend>
-Ophelie nervously walks from the Nimoy’s University Boy Dorm to the Girl Dorm to meet Clara for their weekly \"Dumb film festival\" they started that 2 month into the first term to relieve the pressure of the intense work. As she walked towards her destination she wonders if Clara will accept her coming out, memories of growing up with her brings a weak smile on her face, she remembers fondly her childhood with Clara, and she’s lesbian, so that should work she thought.
+Ophelie was nervously walking toward the Girl's Dorm to meet Clara - her best
+friend - for their weekly "Dumb film festival" they started that 2 months into
+the first term to relax and relieve the pressure of the university. As she
+walked towards her destination she wondered if Clara will accept her coming out,
+memories of growing up with her brings a weak smile on her face, she remembered
+fondly her childhood with Clara, and she’s lesbian, So she think it should work.
 
 Finally, reaching the third floor where Clara’s room is she’s welcomed by a tight hug from her friend.
 
@@ -36,9 +41,9 @@ Clara just nodded, but her face betrayed her anxiety
 
 - \"I... I... I’m a girl… trans that is\" her voice barely a whisper by the end of the sentence.
 
-- \"Oh. Okay. It makes a lot of sense, hum what’s your name love?\"
+- \"Oh. Okay. It makes a lot of sense! What’s your name love?\"
 
-- \"Ophelie and she/her for pronoun please\"
+- \"Ophelie and she/her for pronouns please\"
 
 - \"Okay nice to meet you Ophelie! My best friend\" a huge grin on Clara’s face.
 
@@ -46,13 +51,19 @@ Clara did not wait more to embrace her new friend into a really tight hug. Ophel
 
 #middle
 
-- \"Sooo I have something to tell too... You see I am a witch… not like Harry Potter’s world kind of witch that is we communicate with the universe and try to rebalance it with our art… and I knew something was off with you because your link with the universe is... Off… like gray clouds in a beautiful summer blue sky.\"
+- \"Sooo I have something to tell too... You see I am a witch… not like Harry
+Potter’s world kind of witch that is, we communicate with the universe and try to rebalance it with our art… and I knew something was off with you because your link with the universe is... Off… like gray clouds in a beautiful summer blue sky.\"
 
-Ophelie immediately went non-verbal she did not comprehend what her best friend just threw at her. Magic was a thing? And her best friend whom she knew for years can wield it? That’s too good to be true? But, she trusted her she knew she wouldn’t mess with her just after her coming out that was just plain mean, so Ophelie decided to keep listening to her
+Ophelie immediately went non-verbal she did not understood what her best friend
+just threw at her. Magic was a thing? And her best friend whom she knew for
+years can wield it? That’s too good to be true? But, she trusted her, she knew
+she wouldn’t mess with her just after her coming out, it would be just plain mean, so Ophelie decided to keep listening to her
 
-- \"I’m telling you that because, like, I inferred that the something off was about your body you’re not very masculine, so I thought maybe you wanted to have a better body? So I studied body magic and with that I mastered a true form spell, for you, and I can use it on you right now if that’s what you want.\"
+- \"I’m telling you that because, like, I inferred that the something off was
+about your body you’re not very masculine but not outright feminine, so I
+thought maybe you would want to have a better suited body? So I already studied body magic and with that I mastered a true form spell, for you, and I can use it on you right now if that’s what you want.\"
 
-Ophelie was shocked the look on her face deserved to be framed (so naturally Clara took a picture of her) her best friend could fast track the transition, and she could have her dream body just now just like that? She realized she was stunned for a couple of minutes now, so she wordlessly nodded to her best friend.
+Ophelie was shocked. The look on her face deserved to be framed (so naturally Clara took a picture of her) her best friend could fast track the transition, and she could have her dream body just now just like that? She realized she was stunned for a couple of minutes now, so she wordlessly nodded to her best friend.
 
 As quietly as Ophelie, Clara took her best friend hand into hers and summoned the universe she exactly carefully repeated the steps she learned and asked the universe to fix Ophelie’s body. She felt the little tug and the little shock that signal the approval of the universe.
 
@@ -85,7 +96,8 @@ It’s been almost year since that day, and every one of them was a blessing, I 
 
 Well I have to get moving or Clara will magically open this door…
 
-I opened the door to see Clara mostly patiently waiting beside it, we moved into this apartment at the end of our semester, so we moved together. She, and I, living together in an apartment and some non-school days were like heaven.
+I opened the door to see Clara mostly patiently waiting beside it, we moved
+into an apartment at the end of our semester, so we moved together. She, and I, living together in an apartment and some non-school days were like heaven.
 
 This apartment has a distinct property that Clara specially searched when she found the apartment on the online website, #emph[There was only one bedroom.]
 
@@ -99,9 +111,15 @@ She moved toward me, leveled up my chin before gently kissing me and hugging me 
 
 #middle
 
-- "Ophelie! Clara! Always so beautiful you two" Violet grinned as we entered into her dorm room for our weekly film meetup. Jim and his partner were on a date, so this was only the three of us.
+- "Ophelie! Clara! Always so beautiful you two" Violet grinned as we entered
+into her dorm room for our weekly film meetup. Jim and his partner were on a
+date, so there were only the three of us.
 
-- "Hello Violet" we both said, hugging her, Violet was another trans girl in my class, she also benefited for the help of my girlfriend, to be more honest, I begged Clara to help her, and she finally agreed, not without kissing me and doubling her cuddling amount as reward, not that I was complaining I loved cuddling to her.
+- "Hello Violet" we both said, hugging her, Violet was another trans girl in my
+class, she also benefited for the help of my girlfriend, well to be honest, I
+begged Clara to help her, and she finally agreed, not without kissing me and
+doubling her cuddling requests as reward, not that I was complaining I loved
+cuddling with her.
 
 - "Hey, I see you two "only housemate" are closer now huh-uh" she said with a knowing grin, we were not officially dating, that is we were not out in the university, and were more of a private item, but my friendship with Violet started when she connected the dot between who I was and who I am, she also figured out my relationship with Clara a few weeks into our friendship. The housemate thing was an inside lesbian joke apparently, I was not really into internet but Clara and Violet were.
 
@@ -115,7 +133,7 @@ But it had failed and was now considered a useless comical film for nights like 
 
 #middle
 
-A few days later I was at University thinking what I could buy for Clara for Valentine day, when I also remembered that Valentine day would be the first anniversary of this body, and the first anniversary of our relationship, I decided to buy a nice necklace, I could wait next year for the proposal.”
+A few days later I was at University thinking what I could buy for Clara for Valentine day, when I also remembered that Valentine day would be the first anniversary of this body, and the first anniversary of our relationship, I decided to buy a nice necklace, I could wait next year for the proposal.
 
 #middle
 
@@ -131,7 +149,13 @@ I was in heaven, I am officially Clara’s fiancée ? And she is my fiancée ? I
 
 #middle
 
-The wedding was small, but it was on purpose, our families were there, looking proud of us, our friends, Violet and her boyfriend, Jim and his now married partner, Valentina and her polycule (a boyfriend, two girlfriends and one enby-friend as they called themselves) and of course my sister were all there too looking proud of us. My sister was my witness while Clara’s brother was her man of honor, it’s funny considering our usual roles, but what’s a better time than our wedding to annoy normativity?
+The wedding was small, but it was on purpose, our families were there, looking
+proud of us, our friends, Violet and her boyfriend, Jim and his now married
+partner, Valentina and her polycule (a boyfriend, two girlfriends and one
+enby-friend as they called themselves) and of course my sister were all there
+too looking proud of us. My sister was my witness while Clara’s brother was her
+man of honor, it’s funny considering our usual roles, but what’s a better time
+than our lesbian wedding to annoy normativity?
 
 The day has been exhausting but here we were, as newly married wives, cuddled in our bed waiting for sleep to take us.
 
