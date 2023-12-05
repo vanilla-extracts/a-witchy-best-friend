@@ -1,5 +1,18 @@
-This book is published under the MIT Licence and available on the web here #link("https://agh.nwa2coco.fr")
+#set page(footer: [This book is published under the MIT Licence and available on
+the web here #link("https://agh.nwa2coco.fr")])
 
+
+
+#v(1fr)
+#set text(size:24pt)
+#set align(center)
+*A Witchy Best Friend*\
+by Charlotte O. Thomas,\
+_Last updated: December 5th, 2023_\
+#set text(size:12pt)
+#set align(left)
+#v(1fr)
+#pagebreak(weak: true)
 
 #let middle = block(width: 100%)[
   #set align(center);
