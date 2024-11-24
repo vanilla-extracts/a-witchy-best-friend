@@ -1,6 +1,8 @@
 #import "@preview/hydra:0.5.1": hydra
 #import "@preview/weave:0.2.0": compose_ as c
+
 #set text(font: "Literata")
+#set par(justify: true)
 #set page(
   numbering: "1/1",
   margin: (outside: 1cm, inside: 2cm),
@@ -23,7 +25,7 @@
     )
   },
   header: context {
-    if calc.even(here().page()) {
+    if calc.odd(here().page()) {
       stack(
         dir: ltr,
         align(left, [_A Witchy Best Friend_]),
@@ -34,24 +36,26 @@
   },
 )
 
-
+#let title = [*A Witchy Best Friend (2024)*\ Charlotte O. Thomas
+  \ _Last updated #datetime.today().display("[year]-[month]-[day]")_]
 
 #v(1fr)
 #set text(size: 24pt)
 #set align(center)
-*A Witchy Best Friend (2024)*\
-by Charlotte O. Thomas,\
-_Last updated: 2024-11-24_\
+#title
+#set align(left)
+#v(1fr)
+#pagebreak(weak: true)
+
 #set text(
-  size: 13pt,
+  size: 12.5pt,
   hyphenate: false,
   number-type: "old-style",
   number-width: "proportional",
 )
-#set align(left)
-#v(1fr)
-#pagebreak(weak: true)
-#set par(justify: true)
+
+
+#outline(title: "Table of Chapters")
 
 #let middle = c((
   block.with(width: 100%),
@@ -63,10 +67,12 @@ _Last updated: 2024-11-24_\
 #set heading(numbering: "I. ")
 #show heading.where(level: 1): it => {
   pagebreak(weak: true)
+  pagebreak(to: "odd")
   v(1em)
   set align(center)
   set text(size: 16pt, weight: "bold")
-  [Chapter #counter(heading).display("I") \ #it.body]
+  if counter(heading).get().first() == 3 {[#emph(it.body)]} else {[Chapter
+  #counter(heading).display("I. ") \ #emph(it.body)]}
   v(2em)
 }
 
@@ -162,47 +168,109 @@ to Ophelie_ but she kept on. “Yes, I’m here, and yes I know that. I _was_ on
 ]
 
 
-= Magic
+= Magic <magic>
 
-- "Sooo I have something to tell too... You see I am a witch… not like Harry
-Potter’s world kind of witch that is, we communicate with the universe and try to rebalance it with our art… and I knew something was off with you because your link with the universe is... Off… like gray clouds in a beautiful summer blue sky."
+#[
 
-Ophelie immediately went non-verbal she did not understood what her best friend
-just threw at her. Magic was a thing? And her best friend whom she knew for
-years can wield it? That’s too good to be true? But, she trusted her, she knew
-she wouldn’t mess with her just after her coming out, it would be just plain mean, so Ophelie decided to keep listening to her
+  “Yeah, magic, I’m a Witch, why?” Clara said nonchalantly.
+  Ophelie was *livid* and _flabbergasted_ (she didn’t think of this word,
+  often but such a situation warranted it). Her friend, Clara, had said _magic?_.
+  She knew the world had magical users, of course, it was common knowledge after
+  all but it was _rare_.
 
-- \"I’m telling you that because, like, I inferred that the something off was
-about your body you’re not very masculine but not outright feminine, so I
-thought maybe you would want to have a better suited body? So I already studied body magic and with that I mastered a true form spell, for you, and I can use it on you right now if that’s what you want.\"
+  Few people could wield magical energies to their will, and most of them were
+  weak, some telekinesis at best, maybe a fire starter, nothing more. Those
+  born with _magical talent_ were rare, and usually picked up at sixteen years
+  old to train in magical theory, in case you _were_ strong enough the State (or
+  worse, the world) needed you.
 
-Ophelie was shocked. The look on her face deserved to be framed (so naturally Clara took a picture of her) her best friend could fast track the transition, and she could have her dream body just now just like that? She realized she was stunned for a couple of minutes now, so she wordlessly nodded to her best friend.
+  But she was twenty, and she assumed so, her friend was as well, what the hell
+  was she doing at a _Drama University_ when she potentially had enough power to
+  bend the rules of society in her favour. Ophelie calmed herself, Clara was her
+  friend, she _wouldn’t_ use her or use magic on her without her consent she was
+  _safe_.
 
-As quietly as Ophelie, Clara took her best friend hand into hers and summoned the universe she exactly carefully repeated the steps she learned and asked the universe to fix Ophelie’s body. She felt the little tug and the little shock that signal the approval of the universe.
+  Clara saw how Ophelie reacted and cringed “I’m sorry Ophelie, I swear it’s
+  nothing too important, yeah it’s _magic_ and yeah I have… more power than
+  everyone would think I would but it’s _okay_, I will protect you really,
+  believe me” She smiled softly and side-hugged her friend, who started crying
+  softly.
 
-- \"It’s done, the change will slowly happen over the next few hours so why don’t we start our dumb film night?\"
+  #middle
 
-Ophelie could only nod.
+  After ten minutes - or maybe an hour - Ophelie stopped weeping and fell on
+  her crush’s lap. She sighed “You really can wield magic? And what were you
+  talking about with my body, you can _alter_ other people’s bodies? It’s a
+  little… dangerous” Ophelie wimpered.
 
-First she felt a little sleepy and fell a little into Clara’s embrace now snugly cuddled with her. Approximately half into the movie she could feel her skin softening all over her body and she marveled at the sensation, she really loved that and couldn’t stop herself to touch herself, not that Clara could too.
+  “Yup, and well, it’s _more complicated than that_. I can alter other people’s
+  bodies sure, but only with their conscious and unconscious consent, and then I
+  can only make modifications which don’t contradict their internal image.” She
+  explained, deep into magitheory.
 
-A few minutes after that she felt her face slightly moving just a little lump of far here, bones slightly higher, her face now rounder and far softer without the facial hair. Her hair already mid back grew a few inches more and turned from a pale blonde to a gorgeous ginger, and went from straight to averagely wavy, and curly she couldn’t stop admiring her hair while Clara couldn’t stop admiring her face.
+  Ophelie stopped her “_Internal Image?_,” she asked, she had _no idea_ what her
+  friend was talking about. An _internal image_, magic, consent, it ringed up in
+  her ears as she tried to parse and understand, but her mind was throwing
+  parsing errors after parsing errors.
 
-Soon enough the spell worked with her neck now thinner and lacking her once Adam Apple, her vocal cords shifted, and she gasped in her new soft high soprano voice. While her whole upper body was shrinking her already narrow shoulders narrowed further until they were tiny, and she felt at home, her arms followed, and soon they were as thin as her shoulders
+  Clara smiled softly “Yeah the _Internal Image_ of a person is their… well
+  it’s how their mind, which is an abstract simplification of reality, trust me consciousness and being sentient is weird in magitheory.” she
+  stopped herself rambling, “Sorry I’m rambling, what I’m saying is, _you_, your
+  _mind_, your _consciousness_, whatever you want, contains an _image_ a map of
+  your ideal body, influencing all your choices.
+  If your body isn’t synchronised
+  with your internal image then it causes the _magical internal-external body
+  desynchronisation syndrome_ better known as _Gender Dysphoria_ or _Body
+  Dysmorphia_.”
 
-Moderate breast grew on her now thinner rib cage and while Clara was glaring at them Ophelie was far more interested in her narrowing waist, her muscle melt, her stomach now without a trace of hard muscle and just a layer of soft fat topped by hairless soft skin. Her pelvic area shifted to the feminine form while organs were rearangering in her inner abdominal area, her hips slightly widened just enough to contrast with her now much narrower waist.
+  Ophelie needed a minute, or ten, to comprehend what Clara just _dumped_ on
+  her. _Body maps_. _Internal images_. _Gender Dysphoria_ and _Body Dysmorphia_
+  she was utterly lost and her head was spinning faster than the Earth.
 
-Her legs followed, excess muscle melted and the fat redistributed in her body her figure now a beautiful hourglass and softness all around her body as her far bigger and stronger friend was poking her all over her body, as she already shaved her legs they were now just as she liked them long and smooth and ended with beautiful tiny feet.
+  Clara just _picked_ her friend up and hugged her completely and petted her,
+  until she calmed down. It took a few more minutes before the witch continued
+  “Sorry for dumping all of this information on you, the bottom line is, I get it,
+  I saw my parents help a lot of trans folx too, so I can help you.
 
-She felt like she lost a foot in height, but she was squeaking beyond human understanding she felt so at home within her body, now looking as her 5’11 butch best friend she felt absolutely minuscule but couldn’t stop herself to grin as Clara tightened her grip on her best friend.
+  #middle
 
-After what felt like a lifetime hugging Clara, Ophelie asked her best friend to help her walk to the full body mirror, as she basked into the vision of her true self and the beautiful woman behind her, she guessed her size around 5’1 - her dream size - and rushed hugging Clara once more. She dressed into what she found being the skirt version of the school uniform now her size but stopped at just the undergarments, she turned around looked up to Clara and said without a hint of anxiety
+  They started their movie night, to make some time for Ophelie to make up her
+  mind. They were on their second movie, the _2034_ remake of a
+  sappy sapphic film, they were both transfixed as the love interest and the
+  main character were approaching each other.
 
-- \"Can I kiss you Clara?\".
+  Ophelie lay entirely on Clara’s body, not that the weight was a problem for
+  Clara - she was pretty light and small. They were both eating some popcorn
+  and unbeknown to them they both _really_ wanted to kiss the other. But for now,
+  they were cuddling and munching some popcorn.
 
-= Epilogue : A Witchy lover <epilogue-a-witchy-lover>
-#emph[#strong[Ophelie’s POV]]
+  Clara giggled suddenly, “What?” Ophelie said, waking up from a light slumber,
+  her friend was _comfortable_.
 
+  Clara smirked “Nothing ba- Ophelie, you’re really cute. I was lightly
+  monitoring your stress levels with you know _magic_ and I see they are much
+  better now. Are you ready to decide?” She finished smiling at her small
+  friend.
+
+  Ophelie blushed, “Will-” she tried, “Will you see my, well, my _internal
+  image_?” she finished, her face a deep crimson.
+
+  Clara laughed out loud, like, really she laughed like her life depended on it.
+  “Honey, _I_ am the one making the spell, if I can’t see your internal image
+  how would I be able to pull it?” she smirked, sending flutters in Clara’s
+  stomach.
+
+  With a tiny, high, voice the latter consented to the spell. Clara looked
+  deeply in Ophelie’s eyes, conveying _raw feelings_ over a non-existing link
+  but somehow she understood and nodded.
+
+  #v(1fr)
+
+  _The spell finished with Clara kissing her._
+]
+
+
+= Epilogue : Love <love>
 - "Ophelie! Faster you incompetent lesbian! We must be at Violet’s in half an hour!" Clara yelled through the door
 
 It’s been almost year since that day, and every one of them was a blessing, I love my body sure, and dysphoria mostly disappeared, it was a blessing in itself I was finally able to do well in class and in life. I had more friends now – Violet was one of them – and I was valedictorian of the engineering class of Nimoy’s University.
