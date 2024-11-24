@@ -71,8 +71,12 @@
   v(1em)
   set align(center)
   set text(size: 16pt, weight: "bold")
-  if counter(heading).get().first() == 3 {[#emph(it.body)]} else {[Chapter
-  #counter(heading).display("I. ") \ #emph(it.body)]}
+  if counter(heading).get().first() == 3 {
+    [#emph(it.body)]
+  } else {
+    [Chapter
+      #counter(heading).display("I. ") \ #emph(it.body)]
+  }
   v(2em)
 }
 
@@ -271,73 +275,160 @@ to Ophelie_ but she kept on. “Yes, I’m here, and yes I know that. I _was_ on
 
 
 = Epilogue : Love <love>
-- "Ophelie! Faster you incompetent lesbian! We must be at Violet’s in half an hour!" Clara yelled through the door
 
-It’s been almost year since that day, and every one of them was a blessing, I love my body sure, and dysphoria mostly disappeared, it was a blessing in itself I was finally able to do well in class and in life. I had more friends now – Violet was one of them – and I was valedictorian of the engineering class of Nimoy’s University.
+#[
 
-Well I have to get moving or Clara will magically open this door…
+  “Ophelie! Faster you incompetent lesbian! Violet is expecting us in less than
+  half an hour!” Clara yelled, through the door of their bedroom.
 
-I opened the door to see Clara mostly patiently waiting beside it, we moved
-into an apartment at the end of our semester, so we moved together. She, and I, living together in an apartment and some non-school days were like heaven.
+  Two years had passed since Ophelie came out to Clara, and for her, every one of
+  these days was a blessing. She loved her body, which was _remarkably_ similar
+  to her old one, minus some plus other. Which was also a blessing, it was
+  easier to explain it and Clara was _very eager_ at the thought of staying in
+  the magical closet.
 
-This apartment has a distinct property that Clara specially searched when she found the apartment on the online website, #emph[There was only one bedroom.]
+  Her _gender dysphoria_ almost completely disappeared a few weeks into her new
+  life. Her grades significantly improved - enough that the professors inquired to determine if she had cheated or not, fortunately, their concerns
+  were short-lived.
 
-- "How do I look" I weakly said, trying to calm my anxiety and the torrent of feeling I was experiencing
+  She opened their bedroom door - under threat of magical pick-locking - and
+  saw Clara _not so_ patiently waiting. They moved _together_ into a proper apartment at
+  the end of their last semester, people were _saying things_ in the dorms and
+  they kept pushing the limits of their RA’s patience before moving out.
 
-- "Oh my god Ophelie this dress is so cute on you" said Clara, her face lit up like a Christmas tree when she saw me
+  The apartment in itself was great, the kitchen was big and in an open space
+  with the living room, with a great view of _Lake Superior_ by the big window.
 
-She moved toward me, leveled up my chin before gently kissing me and hugging me as the same time, I hugged her back tightening the embrace as an effort to close the small but terrible gap between our bodies, I completely melted in her hug and marveled as the feeling of this hug and kiss, I could never get enough hugs hers were so good.
+  _Yeah_ they were attending university in Northern Europe and living in Canada,
+  turns out things could get _fun_ when you wielded more magic than the rest of
+  humanity combined. Clara teleported them to Uni every day.
 
-- "We have to go baby" she said grinning at my inability to talk or even move as I felt the last remnant of her warmth on my body, she took my hand, and we began walking towards the campus.
+  It had only _one bedroom_ with _one bed_ though. Clara enjoying her time
+  _Devouring_ Ophelie’s quiet screams and fears when they first moved in, she
+  hadn’t been told the _whole story_.
 
-#middle
+  “How do I look?” Ophelie said, anxiously, performing a little three hundred
+  and sixty degrees turn in front of her. Even after two years in her dream body
+  and with her dream girlfriend she was anxious.
 
-- "Ophelie! Clara! Always so beautiful you two" Violet grinned as we entered
-into her dorm room for our weekly film meetup. Jim and his partner were on a
-date, so there were only the three of us.
+  “Babe. You look absolutely _fantastic_” Clara told her, word by word, with a
+  _big grin_. She came closer and kissed her girlfriend. “Seriously, you’re
+  stunning, I would kill to look as cute in a dress, alas I shall be confined to
+  flannel shirts and coveralls,” she said, with mock sadness.
 
-- "Hello Violet" we both said, hugging her, Violet was another trans girl in my
-class, she also benefited for the help of my girlfriend, well to be honest, I
-begged Clara to help her, and she finally agreed, not without kissing me and
-doubling her cuddling requests as reward, not that I was complaining I loved
-cuddling with her.
+  Ophelie rolled her eyes, she was used to her girlfriend’s demeanour nowadays.
+  She opened her mouth and smiled at the same time, which produced a fun sound,
+  something like a squeak, had she been on text messages she would have
+  key-smashed herself into oblivion. Instead, they kissed.
 
-- "Hey, I see you two "only housemate" are closer now huh-uh" she said with a knowing grin, we were not officially dating, that is we were not out in the university, and were more of a private item, but my friendship with Violet started when she connected the dot between who I was and who I am, she also figured out my relationship with Clara a few weeks into our friendship. The housemate thing was an inside lesbian joke apparently, I was not really into internet but Clara and Violet were.
+  They *looked* at each other for another ten minutes, before Clara snapped out
+  of her gay heaven and said “Ophelie! We need to go! I know we thereby
+  teleportation but if we fool around we’ll _definitely_ be late” she said while
+  extracting herself out of the knot of limbs that happened every time they
+  kissed.
 
-Jim and his partner were originally Clara’s friend from high school, but they attend another close university and live not so far away, she also "helped" Jim’s partner Alex.
+  #middle
 
-In and all we were a knit-close group of friends bonded by mundane university and less-mundane magic.
+  Violet waved to the two of them when they appeared back in Europe, not far
+  from another lake, they hadn’t bothered to know its name, they just travelled
+  the last two hundred metres or so before stopping by Violet’s door.
 
-We chose a film and settled down on the couch, I, the smallest individual of this group, was in the middle while Clara was cuddled at my right and Violet was cuddled at my left, cuddling is nice, so I said nothing as I basked into the feeling of friends, of my girlfriend, cuddles, snacks and watching a silly comedy film from a few years ago. I think its name was "The Super-revenge of the jedi-mummies versus the mighty gender-bent avengers in the new matrix" apparently it was intended to be a big film consisting of a crossover between four huge licenses of the time.
+  She opened it, revealing the small over-crowded student apartment ready for
+  their weekly film meetup. They hadn’t let the habit die out, they, instead,
+  invited more friends, and unfortunately _they couldn’t teleport_ so they had
+  to come here to Violet’s small apartment instead of using theirs.
 
-But it had failed and was now considered a useless comical film for nights like these.
+  Ophelie had not even one idea about how Clara was able to afford the
+  exorbitant rent of their apartment, she knew she wasn’t owning it and was
+  renting it but that’s as far as she asked. Clara didn’t always answer when
+  it came to magic, it was a secret she guessed.
 
-#middle
+  Violet greeted them “Hello you two” she giggled “You look wonderful, our power
+  couple!” she said laughing. The older student - still under twenty-five years
+  old - had started calling them _“her power couple”_ when she took them under
+  her care.
 
-A few days later I was at University thinking what I could buy for Clara for Valentine day, when I also remembered that Valentine day would be the first anniversary of this body, and the first anniversary of our relationship, I decided to buy a nice necklace, I could wait next year for the proposal.
+  #middle
 
-#middle
+  In the room in front of the modest screen was a large sofa with everyone piled
+  on it, forced to cuddle in every direction, _not that she minded_.
 
-But apparently Clara thought otherwise,
+  Jim and his partner were old high school friends of Clara. They attended the
+  University of Western Europe along with Violet and her girlfriend. They were both
+  trans men, Violet was a nonbinary demi girl, her girlfriend was genderqueer,
+  Clara was the only cis person on this couch.
 
-- "Ophelie, I love you and the past year have been a blessing" I nodded, but she motioned that she hadn’t finished yet "and I want to spend the remainder of my life on this planet with you, I can’t imagine a world where we’re not together, what I’m trying to say is Ophelie, will you marry me?"
+  She had helped them too. Although not exactly like she helped her best friend,
+  she couldn’t reveal her identity to this many people. So she quietly helped
+  them, over several months, every week, barring a couple of weeks
+  here and there so as not to seem too suspicious.
 
-My heart stopped, and I began crying, Clara wanted to marry me??
+  “What do you want to watch?” Violet, the oldest person in the room asked, and
+  chaos followed.
 
-- "Of course Clara I love and ever will love you’re my life my sun my…" but Clara stopped me by kissing me.
+  She managed to calm down the crowd and Ophelie managed to talk. “I took this
+  2036 Disney, it’s _The Revenge of the Jedi-Mummies versus the Mighty Avengers_
+  and despite its name, was set inside _the Matrix_‘s universe. Disney tried
+  anything before falling over its weight a few years ago.
 
-I was in heaven, I am officially Clara’s fiancée ? And she is my fiancée ? I never thought it would be possible !
+  #middle
 
-#middle
+  A few days later, on break, Ophelie was walking in the busy streets of
+  Toronto - Clara had given her a “lift” - and wondered what to buy for Clara.
+  Valentine’s Day was the week after, and even if it was an old tradition which
+  fell out of favour due to its ties with capitalism and the decaying of society
+  before the Unification, she liked it.
 
-The wedding was small, but it was on purpose, our families were there, looking
-proud of us, our friends, Violet and her boyfriend, Jim and his now married
-partner, Valentina and her polycule (a boyfriend, two girlfriends and one
-enby-friend as they called themselves) and of course my sister were all there
-too looking proud of us. My sister was my witness while Clara’s brother was her
-man of honor, it’s funny considering our usual roles, but what’s a better time
-than our lesbian wedding to annoy normativity?
+  She ended up buying a nice necklace, it was a piece of rose gold with a flower
+  - an actual flower, freeze-dried then crystallo-metalized, and hung on the
+  necklace. She was pretty proud of herself for finding it out.
 
-The day has been exhausting but here we were, as newly married wives, cuddled in our bed waiting for sleep to take us.
+  She thought of buying an engagement ring. The practice of weddings was also
+  very last decade but she liked the idea of being Clara’s wife. She decided to
+  wait another year before asking, she still wasn’t sure Clara loved her _this
+much_
 
-Just before I fell asleep though, one thought came to me, do Clara love me ?
+  #middle
+
+  But she did.
+  It was Valentine’s Day, they were both dressed to the nine and Clara cooked an
+  amazing dinner for the two of them. They didn’t feel like eating out.
+
+  Then came the moment of the gift exchange. Clara smiled at her girlfriend,
+  and offered Ophelie to start.
+
+  She stood up, untied the bow and clasped the necklace over Clara’s neck.
+  “It’s beautiful,” the latter said, lightly smiling, she kissed Ophelie, a nice,
+  very chaste kiss relative to the setting. “Ophelie, I will offer you
+  something. I want you to know you can refuse, I won’t take it personally, and
+  we’ll stay girlfriends” Clara said, she was, for once, the _anxious_ one.
+
+  Ophelie raised an eyebrow and gestured for her to continue. Clara took something
+  from her pocket - even now in 2039 dresses _still_ don’t come with pockets!
+  She would be a bit jealous, but she _loved_ the feeling of a dress.
+
+  Clara took Ophelie’s hands in hers. “Ophelie”, she smiled, “Ophelie, I can’t
+  express how much I love you.”. “But I’ll try anyway, you’re wonderful, you’re
+  smart, you’re resourceful, your energy is incredible to see and it has been a
+  joy and honour to see you thrive these past two years.”
+
+  Clara dropped to one knee. Ophelie’s heart started beating faster than it ever
+  was.
+
+  “Ophelie, my love, would you marry me?” _That’s it_ she was crying, big fat
+  sobs fell from her eyes. Clara tried to speak, tried to get up, she was
+  getting anxious. Ophelie just pushed her right on her knee gently.
+
+  Ophelie stopped weeping, regained her composure, and said two words.
+
+  #v(1fr)
+
+  _“I do.”_
+
+  #c((
+    align.with(center),
+    emph,
+    strong,
+    text.with(size: 14pt),
+  ))[The End]
+]
