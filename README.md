@@ -1,4 +1,3 @@
-# a-witchy-best-friend
-AWB Repository. PDFs and HTML are on the website https://agh.nwa2coco.fr
+# AWB
 
-Repository of finished work
+You can download the following files [here](https://writing.charlotte-thomas.me/awb2024)
