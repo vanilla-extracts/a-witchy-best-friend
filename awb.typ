@@ -16,7 +16,7 @@
           13pt,
           rgb(black).lighten(30%),
         )[This book is under the CC-BY-NC-SA 4.0 License, available
-          #link("https://writing.charlotte-thoms.me#awb2024", "here")]
+          #link("https://writing.charlotte-thoms.me/#awb2024", "here")]
       } else {
         []
       },
