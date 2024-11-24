@@ -1,171 +1,71 @@
-#import "@preview/hydra:0.5.1": hydra
-#import "@preview/weave:0.2.0": compose_ as c
-#set text(font: "Literata")
-#set page(
-  numbering: "1/1",
-  margin: (outside: 1cm, inside: 2cm),
-  footer: context {
-    let page = counter(page)
-    let n = page.get().first()
-    stack(
-      dir: ltr,
-      if calc.rem(n, 3) == 1 {
-        text(
-          13pt,
-          rgb(black).lighten(30%),
-        )[This book is under the CC-BY-NC-SA 4.0 License, available
-          #link("https://writing.charlotte-thoms.me#awb2024", "here")]
-      } else {
-        []
-      },
-      h(1fr),
-      [#page.display("1")],
-    )
-  },
-  header: context {
-    if calc.even(here().page()) {
-      stack(
-        dir: ltr,
-        align(left, [_A Witchy Best Friend_]),
-      )
-    } else {
-      align(right, emph(hydra(1)))
-    }
-  },
-)
+#set page(footer: [This book is published under the MIT Licence and available on
+  the web here #link("https://agh.nwa2coco.fr")])
 
 
 
 #v(1fr)
 #set text(size: 24pt)
 #set align(center)
-*A Witchy Best Friend (2024)*\
+*A Witchy Best Friend*\
 by Charlotte O. Thomas,\
-_Last updated: 2024-11-24_\
-#set text(
-  size: 13pt,
-  hyphenate: false,
-  number-type: "old-style",
-  number-width: "proportional",
-)
+_Last updated: December 5th, 2023_\
+#set text(size: 12pt)
 #set align(left)
 #v(1fr)
 #pagebreak(weak: true)
-#set par(justify: true)
 
-#let middle = c((
-  block.with(width: 100%),
-  align.with(center),
-  strong,
-))[$ast.basic$~$ast.basic$~$ast.basic$]
+#let middle = block(width: 100%)[
+  #set align(center);
+  #set text(weight: "bold");
+  $ast.basic$~$ast.basic$~$ast.basic$
+]
 
-
-#set heading(numbering: "I. ")
 #show heading.where(level: 1): it => {
-  pagebreak(weak: true)
   v(1em)
   set align(center)
   set text(size: 16pt, weight: "bold")
-  [Chapter #counter(heading).display("I") \ #it.body]
+  it
   v(2em)
 }
 
-= Coming Out <co>
-#[
-  Ophelie was walking, nervously, in the direction of the Girls’ Dorm to meet her
-  best friend - Clara. They made a point of having a weekly movie night they
-  dubbed the _Dumb Film Festival_, they started it two months into their
-  first term at Uni.
+= A Witchy Best Friend <a-witchy-best-friend>
+Ophelie was nervously walking toward the Girl's Dorm to meet Clara - her best
+friend - for their weekly "Dumb film festival" they started that 2 months into
+the first term to relax and relieve the pressure of the university. As she
+walked towards her destination she wondered if Clara will accept her coming out,
+memories of growing up with her brings a weak smile on her face, she remembered
+fondly her childhood with Clara, and she’s lesbian, So she think it should work.
 
-  It was very effective for them to relax and blow off some steam accumulated
-  during the week.
+Finally, reaching the third floor where Clara’s room is she’s welcomed by a tight hug from her friend.
 
-  This time, however, she wasn’t _just_ walking for their weekly movie night, you
-  see, Ophelie had a secret, she _was a girl_. Okay, it might sound obvious, but
-  for the doctors who assigned her birth gender, it was apparently not!
+- \"Hey !!\", Said Clara, practically shooting
 
-  A secret she had carried, alone, for far too long, so this time, she was going to
-  come out to her best friend, she was queer too - a lesbian, as far as Ophelie
-  knew - thus she had high hopes her friend would accept her.
+- \"Hey…\", anxiously replied Ophelie
 
-  She smiled as she remembered the memories of growing up together and the long hours
-  of mischief they played together. All of this coalesced in a big smile and a
-  flutter in Ophelie’s stomach as her crush bubbled to the surface for a minute.
+They argued a little about what film to watch and finally agreed on a silly movie about a swamp monster being chased by the protagonists, they have already seen it about a dozen times, but each other’s presence is enough for the friends.
 
-  She gulped, _hard_, she was in front of her door, she just had to knock, come
-  out, and kiss, right?
+When Clara was about to start the movie Ophelie stopped her and grabbed her hand.
 
-  That wasn’t _so hard_ was it?
+- \"What?\" Clara said softly, clearly intrigued by her friend’s antics
 
-  #middle
+- \"Hey... I want to tell you something important\"...
 
-  After goddess knew how many minutes - or hours? - of silence and anxiety she
-  steadied herself and worked up the courage to knock on the door… Just for it
-  to open in front of her.
+Clara just nodded, but her face betrayed her anxiety
 
-  “Oh, E. You’re here, you’re late you know that?” Clara smirked
+- \"I... I... I’m a girl… trans that is\" her voice barely a whisper by the end of the sentence.
 
-  The view of her best friend - and crush - smugly smirking like that _did things
-to Ophelie_ but she kept on. “Yes, I’m here, and yes I know that. I _was_ on
-  time, I just kept looking at the door too long” she said, her voice barely above
-  a whisper, and with a distinctive _female_ quality which betrayed her voice
-  training.
+- \"Oh. Okay. It makes a lot of sense! What’s your name love?\"
 
-  Clara raised an eyebrow and muttered “‘Figures”, and let Ophelie enter the room.
+- \"Ophelie and she/her for pronouns please\"
 
-  It was a fairly standard room, in the _Leonard Nimoy_‘s building, which housed
-  the long-term dorms, for the girls, here at the Drama University of Northern
-  Europe. The walls were far from bare, decorated tastefully with a lot of pride
-  flags - so much she couldn’t see the one applying to her friend - and some old
-  posters from her favourite shows.
+- \"Okay nice to meet you Ophelie! My best friend\" a huge grin on Clara’s face.
 
-  On the desk proudly stood a part-built model of the _USS Enterprise_, not the A,
-  B, C, D, E, F or G. The _original_. Along with many sheets of paper, music,
-  drama lessons, and lines to learn.
+Clara did not wait more to embrace her new friend into a really tight hug. Ophelie felt relieved, and it felt so right to hear her true name from her best friend her heart melt but little did she know she’ll be even happier in a few hours.
 
-  “Okay let’s cho-” Clara started when Ophelie stopped her with a noise. More
-  arching her eyebrows, Ophelie gulped _again_, it was now or never.
+#middle
 
-  “I have something to say yo-” Ophelie said as she was stopped when she felt a
-  hug by her much taller friend, she was _the_ butch lesbian, as opposed to herself, she was
-  small for a boy, about 160cm, which made her in the median height for girls her
-  age.
-
-  “Yeah, yeah, you’re trans, you’re a girl, she/her pronouns, the works, no shit
-  Sherlock” Clara said, with her signature smug smirk.
-
-  Ophelie was absolutely _stunned_. How? Why? Her mouth was ajar and she failed to
-  compute what was happening, she regained her composure when she heard the distinctive sound of an old-school camera taking a photograph of her
-
-  “Hey!” She said, pouting, to her friend.
-  “Sorry E-, friend, you’re cute, but you’re oblivious as fuck if you thought we
-  were not _know it_. I even think there were some bets on when you would come
-  out.” Clara said, smiling softly
-
-  “But I’m proud of you, so how come I don’t know it already?” She finished
-  petting Ophelie’s hair.
-
-  “Know what?” the latter said, still pouting.
-  “Your name.”
-  “Oh! It’s Ophelie, like _Ophelia_ but without the _a_ sound it’s a long _ee_
-  sound it originates from-” She said excitedly.
-
-  “Yeah yeah, nerd, so proud of you _Ophelie_” hearing her name said _like that_
-  by her crush did a lot to the poor girl, “Let me prepare and I’ll do some shitty
-  magic to _correct_ your body okay?” Clara grinned.
-
-  “Thanks” Ophelie pouted, as Clara ruffled her hair.
-
-  #v(1fr)
-
-  “Wait, *_magic_*?”
-]
-
-
-= Magic
-
-- "Sooo I have something to tell too... You see I am a witch… not like Harry
-Potter’s world kind of witch that is, we communicate with the universe and try to rebalance it with our art… and I knew something was off with you because your link with the universe is... Off… like gray clouds in a beautiful summer blue sky."
+- \"Sooo I have something to tell too... You see I am a witch… not like Harry
+Potter’s world kind of witch that is, we communicate with the universe and try to rebalance it with our art… and I knew something was off with you because your link with the universe is... Off… like gray clouds in a beautiful summer blue sky.\"
 
 Ophelie immediately went non-verbal she did not understood what her best friend
 just threw at her. Magic was a thing? And her best friend whom she knew for
